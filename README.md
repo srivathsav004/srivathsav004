@@ -1,22 +1,18 @@
-# 👋 Hey, I'm Sri Vathsav Naidu
-
 <div align="center">
-  
-  **I build decentralized apps, APIs, and scalable backend services**
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://srivathsav.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangavaram-sri-vathsav-naidu-58a237280/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dumbiriyani5213)
-  
-</div>
 
----
+# Hey, I'm Sri Vathsav 👋
 
-## 🎯 What I Believe In
+![Profile Views](https://komarev.com/ghpvc/?username=srivathsav004&color=blueviolet&style=flat-square)
 
-> **I build products that prioritize practicality over hype.**
+### I build products that prioritize practicality over hype.
 
-I'm focused on creating web3 solutions that solve real-world problems, not just riding the blockchain wave. Every project I work on needs to have a clear purpose and tangible value.
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://srivathsav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangavaram-sri-vathsav-naidu-58a237280/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dumbiriyani5213)
+
+<br>
 
 ---
 
@@ -59,41 +55,14 @@ I'm focused on creating web3 solutions that solve real-world problems, not just 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivathsav004&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivathsav004&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srivathsav004&theme=radical&hide_border=true)
 
 ---
 
-## 🌟 Currently
+**⭐ Star my repos if you find them useful!**
 
-- 🔭 Building practical web3 solutions that solve real problems
-- 🌱 Exploring advanced cryptography and zero-knowledge proofs
-- 🤝 Open to collaborations on impactful blockchain projects
-- 💬 Ask me about Web3, smart contracts, FastAPI, or decentralized systems
-
----
-
-## 🤝 Connect & Contribute
-
-I'm always interested in collaborating on projects that push the boundaries of what's possible with blockchain technology. If you're working on something practical and impactful, let's talk.
-
-- 💼 **Portfolio:** [srivathsav.vercel.app](https://srivathsav.vercel.app/)
-- 💼 **LinkedIn:** [Sri Vathsav Naidu](https://www.linkedin.com/in/gangavaram-sri-vathsav-naidu-58a237280/)
-- 🐦 **Twitter/X:** [@dumbiriyani5213](https://x.com/dumbiriyani5213)
-
----
-
-<div align="center">
-  
-  **⭐ Star my repos if you find them useful!**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
-  
 </div>
