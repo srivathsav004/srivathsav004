@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://srivathsav.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gangavaram-sri-vathsav-naidu-58a237280/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x)](https://x.com/dumbiriyani5213)
 
 </div>
 
