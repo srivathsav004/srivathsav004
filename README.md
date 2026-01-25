@@ -54,6 +54,6 @@
 
 <div align="center">
 
-⭐ **Star my repos if you find them useful!**
+⭐ **Star my repos if you find them useful :)**
 
 </div>
